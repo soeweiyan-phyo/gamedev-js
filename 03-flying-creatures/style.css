@@ -1,9 +1,12 @@
-#canvas1 {
+.canvas-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.canvas {
   border: 3px solid black;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   height: 1000px;
   width: 500px;
 }
