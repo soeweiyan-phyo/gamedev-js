@@ -4,6 +4,8 @@
 
 This project showcases various flying creature animations using HTML5 Canvas and JavaScript. The animations include flustered movements, flying up and down, circular movements, and random position generation.
 
+![Screen Recording 2024-03-15 at 8 14 24 PM](https://github.com/soeweiyan-phyo/gamedev-js/assets/38011380/81f60241-fcdc-46a3-8372-227fc5d077c4)
+
 ## Technologies Used
 
 <div align="left">
